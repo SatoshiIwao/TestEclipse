@@ -8,6 +8,8 @@ public class Main {
 		
 		System.out.println("this is "+name);
 		System.out.println("hey. this is how to use eclipse and GitHub.");
+		
+		System.out.println("modification was made.");
 	}
 
 }

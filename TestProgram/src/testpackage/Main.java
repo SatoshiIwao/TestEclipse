@@ -10,6 +10,8 @@ public class Main {
 		System.out.println("hey. this is how to use eclipse and GitHub.");
 		
 		System.out.println("modification was made.");
+		
+		System.out.println("import from Git and modified.");
 	}
 
 }

@@ -6,6 +6,11 @@ public class Main {
 		
 		String name = "satoshi";
 		
+		display(name);
+		
+	}
+	
+	public static void display(String name) {
 		System.out.println("this is "+name);
 		System.out.println("hey. this is how to use eclipse and GitHub.");
 		
@@ -14,6 +19,7 @@ public class Main {
 		System.out.println("import from Git and modified.");
 		
 		System.out.println("create new branck and modified.");
+
 	}
 
 }

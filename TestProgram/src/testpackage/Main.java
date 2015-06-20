@@ -12,6 +12,8 @@ public class Main {
 		System.out.println("modification was made.");
 		
 		System.out.println("import from Git and modified.");
+		
+		System.out.println("create new branck and modified.");
 	}
 
 }
